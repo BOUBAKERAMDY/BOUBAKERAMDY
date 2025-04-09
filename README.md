@@ -33,5 +33,5 @@
 
 ---
 
-> _“Stay curious. Keep learning. Code something cool today.”_
+
 
