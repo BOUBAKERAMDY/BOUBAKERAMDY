@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Boubaker Amdyoun
 
 🎓 1st-year Engineering Student at Polytech Nice Sophia  
-💼 Looking for a 2-year apprenticeship in AI, Machine Learning or Full-Stack Development  
-📚 Projects in Deep Learning, Mobile Apps, Fullstack Web, and more  
+💼 Looking for a 2-year apprenticeship   
+
 
 ---
 
